@@ -1,0 +1,13 @@
+LES is a retail store brand, it is the fourth largest supermarket chain in the country after Future Group, Reliance Retail and D-Mart. 
+It was founded in 2005 and unites 480 supermarkets and 25 hypermarkets. It also provides online grocery retail services in Bangalore, NCR, Hyderabad and Pune through its e-Commerce website.
+
+Analytics -
+The data points are being requested from ZetaSign by Aditya, a new sales acceleration manager, in order to understand the business dynamics such as high-value customers, basket size of customers, fast-moving products and location performance. The data has been sent to the recipient in Google Sheets. A fair understanding of sales by-products, category, location and key areas to improve will be identified. A reporting system is also aimed to be created which will be monitored regularly, and any drop in sales or abnormal behaviour will be noticed as soon as possible.
+
+
+As a suggestion I insisted on focusing on 4 reports, which will his KPIs –
+
+•	Report 1) Customers with top transactions
+•	Report 2) Product sales from 8th till 15th December
+•	Report 3) ARPU by city and by state
+•	Report 4) Sales by category with city level breakup
